@@ -1,28 +1,7 @@
 # GPro_VF
 <!DOCTYPE html>
 <link rel="manifest" href="manifest.json">
-{
-  "name": "Gestor Pro",
-  "short_name": "GestorPro",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#121212",
-  "theme_color": "#2196F3",
-  "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
-}
 
-<html lang="pt">
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
